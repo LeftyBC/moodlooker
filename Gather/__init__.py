@@ -66,7 +66,3 @@ def ask_question():
 
     print "Thanks!! You've answered all the questions for now."
 
-
-ask_question()
-
-
